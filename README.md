@@ -14,7 +14,7 @@ A real-time vehicle detection and counting system using YOLO11 (YOLOv11) with NV
 - 📈 **Performance Metrics**: Displays FPS and vehicle count in real-time
 - 🎨 **Visual Feedback**: Color-coded bounding boxes, tracking IDs, and dynamic line color changes
 
-## Requirements
+## Requirements 
 
 ### Hardware
 - NVIDIA GPU with CUDA support
